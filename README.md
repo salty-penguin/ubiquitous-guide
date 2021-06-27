@@ -1,4 +1,4 @@
-# ubiquitous-guide
+# Coomer-Toggles
 
 VRChat modification intended to be loaded with Melonloader 0.4.0+.
 
